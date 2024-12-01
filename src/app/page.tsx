@@ -9,11 +9,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
-              Launch Your SaaS Faster
+              Start Your Founder Journey
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">
-              Find high-quality boilerplates for your next SaaS project. Save weeks of development time
-              and focus on what matters most - your unique features.
+              The best place to find high-quality boilerplates for your next business idea.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link
